@@ -19,7 +19,7 @@ LiLi-MLP は、「１つの文脈野中には、整数スケールとログス�
 
 ## 使い方
 
-* [サンプルの実行の仕方][(./usage.md)]
+* [サンプルの実行の仕方](./usage.md)
 
 ## LogLinearActiveHead (LoLi-MLP)
 

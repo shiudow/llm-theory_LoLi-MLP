@@ -29,7 +29,7 @@ While the responses were still slightly off, they were sufficient considering th
 
 ## How to Use
 
-* [How to Run the Sample][(./usage.md)]
+* [How to Run the Sample](./usage.md)
 
 ## LogLinearActiveHead (LoLi-MLP)
 
